@@ -38,10 +38,10 @@ Using **Machine Learning**, it helps airlines **optimize operations** and **maxi
 
 ### **🎨 Visuals**
 #### **📊 Model Performance**  
-![Model Performance](model_performance.png)
+![Model Performance](model_performance.png.png)
 
 #### **🔍 Feature Importance**  
-![Feature Importance](feature_importance.png)
+![Feature Importance](feature_importance.png.png)
 
 ---
 
