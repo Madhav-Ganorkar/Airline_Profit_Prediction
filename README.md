@@ -63,7 +63,7 @@ Using **Machine Learning**, it helps airlines **optimize operations** and **maxi
 ## 📅 How to Run the Project  
 1️⃣ Clone the repository:  
 ```sh  
-git clone https://github.com/your-username/your-repo.git  
+git clone https://github.com/Madhav-Ganorkar/Airline_Profit_Prediction
 ```
 2️⃣ Install dependencies:  
 ```sh  
@@ -79,7 +79,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🤝 Contributors  
+## 🤝 Contributor  
 - [Madhav Ganorkar](https://github.com/Madhav-Ganorkar)  
 
 ---
