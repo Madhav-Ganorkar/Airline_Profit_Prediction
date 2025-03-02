@@ -23,6 +23,8 @@ Using **Machine Learning**, it helps airlines **optimize operations** and **maxi
   - 💰 Revenue & Operating Costs  
   - 🔧 Maintenance Downtime  
 - **Target Variable:** `Profit (USD)`
+- **📂 Dataset Access:**
+🔗 Download Aviation_KPIs_Dataset.csv from Google Drive
 
 ---
 
@@ -76,6 +78,10 @@ pip install -r requirements.txt
 ## 📚 Results  
 - ✅ **Trained model achieves high accuracy**  
 - ✅ **Business insights provided for better decision-making**  
+
+---
+🎥 Project Demo
+🔗 Watch the project demo here
 
 ---
 
