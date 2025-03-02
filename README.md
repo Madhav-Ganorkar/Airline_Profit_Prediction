@@ -80,8 +80,9 @@ pip install -r requirements.txt
 - ✅ **Business insights provided for better decision-making**  
 
 ---
-##🎥 Project Demo
-🔗 Watch the project demo here
+
+## 🎥 Project Demo
+🔗 [Watch the project demo here](https://drive.google.com/file/d/1a8J6duNGMuowBukF4RQuV8IKjtwPik_-/view?usp=sharing)
 
 ---
 
